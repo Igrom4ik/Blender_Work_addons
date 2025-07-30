@@ -2,7 +2,7 @@ bl_info = {
     "name": "UV Atlas",
     "author": "Igrom",
     "version": (1, 0),
-    "blender": (4, 0, 0),
+    "blender": (4, 5, 0),
     "location": "3D View > Sidebar > UV Atlas",
     "description": "UV Atlas tools",
     "category": "UV"

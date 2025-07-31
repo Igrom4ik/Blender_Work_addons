@@ -1,7 +1,7 @@
 bl_info = {
     "name": "LOD Manager",
     "author": "Igrom",
-    "version": (3, 8),
+    "version": (3, 27),
     "blender": (4, 5, 0),
     "location": "3D View > Sidebar > LOD",
     "description": "LOD UI with Ctrl/Shift multi-selection and camera-based auto-switching",

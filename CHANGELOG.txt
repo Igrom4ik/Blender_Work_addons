@@ -1,0 +1,39 @@
+Blender Work Addons — Changelog
+===============================
+
+v1.1.0
+-------
+- Progressive_LOD_Manager addon:
+    * Новый модуль с визуальным редактором порогов LOD
+    * Исправлены все импорты: теперь используются lod_logic.py, utils.py и др.
+    * Добавлен файл utils.py с функцией get_translation
+    * Исправлены ошибки с отсутствием модулей и неправильными именами файлов
+    * Улучшена регистрация модулей через __init__.py
+    * Добавлена панель sync и редактор графа порогов
+    * Исправлены ошибки с __init__ в классах Blender API
+    * Улучшена совместимость с Blender 4.5+
+- LOD Manager:
+    * Исправления логики авто-LOD и видимости
+    * Улучшена отладка и вывод информации
+    * Мелкие багфиксы
+- UV Slicer, UV Atlas:
+    * Без изменений
+
+v1.0.0
+-------
+- Initial public release of repository
+- Added LOD Manager addon:
+    * Multi-selection of LOD groups (Ctrl/Shift)
+    * Automatic LOD switching by camera distance
+    * Polycount display
+    * Color settings for LOD groups
+    * Russian and English language support
+- Added UV Slicer addon:
+    * Geometry slicing by UDIM tile borders
+    * Assembling all UV islands into (0;1) space
+- Added UV Atlas addon (basic structure)
+- Added README.md with Russian and English descriptions
+- Added installation instructions for all addons
+
+See full changelog online:
+https://github.com/Igrom4ik/Blender_Work_addons/commits/main

@@ -1,5 +1,21 @@
 # Blender Work Addons
 
+## Установка аддонов / Addon Installation
+
+**Русский:**
+1. Скачайте или склонируйте репозиторий в удобную папку.
+2. В Blender откройте меню `Edit > Preferences > Add-ons`.
+3. Нажмите `Install...` и выберите нужную папку аддона (`LOD_manager`, `uv_atlas`, `uv_slicer`).
+4. Активируйте аддон в списке.
+
+**English:**
+1. Download or clone this repository to any folder.
+2. In Blender, go to `Edit > Preferences > Add-ons`.
+3. Click `Install...` and select the desired addon folder (`LOD_manager`, `uv_atlas`, `uv_slicer`).
+4. Enable the addon in the list.
+
+---
+
 ## LOD Manager
 
 **Русский:**
